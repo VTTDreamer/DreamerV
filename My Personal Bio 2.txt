@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+table, th, td{
+ border: 1px solid;
+}
+ 
+</style>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<div class="header">
+<h1>List of Past Education & Table of Skills and Experiences.</h1>
+</div>
+
+<div class="content">
+<p>This is a list of my Past Education</p>
+<ol>
+ <li>Primary School (UPSR)</li>
+ <li>Secondary School (SPM)</li>
+ <li>INTI Laureatte College (Mass Comm)</li>
+ <li>The One Academy (Digital Animation)</li>
+ <li>IELTS (International English Language Testing System)</li>
+ <li>TESOL (Teaching English to Speakers of Other Languages)</li>
+</ol>
+
+<br>
+
+<table>
+<tbody><tr><th>Skills</th><th>Years of Experience</th></tr>
+<tr><td>Badminton</td><td>About 5 Years</td></tr>
+<tr><td>Skilled Based IT Training</td><td>Around 5 months</td></tr>
+<tr><td>Piano</td><td>Close to 7 Years</td></tr>
+<tr><td>Karate</td><td>More than 8 Years</td></tr>
+<tr><td>Wu Do</td><td>1 Year or More</td></tr>
+
+</tbody></table>
+
+</div>
+
+<div class="footer">
+
+<br>
+
+<a href="My Personal Bio.html">Back to Myself.</a>
+
+</div>
+
+
+</body></html>

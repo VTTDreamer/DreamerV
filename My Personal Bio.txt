@@ -1,0 +1,42 @@
+<html>
+<head>
+<script type="text/javascript" src="jquery-1.11.0.min.js">
+</script>
+
+<script type="text/javascript" src="jquery-1.11.0.min.js">
+</script>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="header">
+ <h1 id="header">My Personal Bio</h1>
+</div>
+
+<div class="content">
+<img src="Me and Su Ean in Melacca.jpg" height="400">
+
+<p>Hi, how do you do? My name is Victor Tang Tzechung. I was born and raised in Malaysia and am currently living in the
+   province of Subang Jaya, in the state of Selangor.</p>
+
+<p>I am living with my family still eventhough I am already 21. I have my parents and two siblings, my older brother and
+   my younger sister. I am currently unemployed and I came from two different colleges before. One of them is the INTI
+   Laureatte College and the other is the critically acclaimed and fabled college, 'The One Academy'.</p>
+
+<p>My goals in life is to become a writer, living and taking care of my mother while still being able to support her and
+   myself to the very best of my abilities. I hope that one day I would be able to find that special someone out there for 
+   me; to love each other to the fullest and to be there for each other through pain and joy.</p>
+
+<br>
+
+<a href="My Personal Bio 2.html">Link to my Past Education and Years of Experience</a>
+
+</div>
+
+<div class="footer">
+
+<p>Hope to be good friends with you!</p>
+
+</div>
